@@ -9,3 +9,7 @@ Check fetch and merge commends
 check pull commends
 
 add changes to check push to origin
+
+created new change from master
+
+added changes for push branch from local
