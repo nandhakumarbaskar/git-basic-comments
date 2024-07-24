@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Check fetch and merge commends
 
 check pull commends
+
+add changes to check push to origin
